@@ -5,7 +5,7 @@
 - [Parts & Repairs](./repairs.md)
 - [UEFI Setup & Specifications](./setup-specs.md)
 
-![Adder WS](./img/addw1.png)
+![Meerkat](./img/meer5.png)
 
 The System76 Meerkat is a desktop with the following specifications:
 
@@ -14,6 +14,9 @@ The System76 Meerkat is a desktop with the following specifications:
         - [Intel i7-10710U](https://ark.intel.com/content/www/us/en/ark/products/196448/intel-core-i7-10710u-processor-12m-cache-up-to-4-70-ghz.html)
 - Firmware
     - System76 Firmware (non-open)
+
+<!--- Memory is updated but not the GPU stuff --->
+
 - GPU
     - Intel UHD Graphics (620)
     - 1 x HDMI (w/HDCP) output
